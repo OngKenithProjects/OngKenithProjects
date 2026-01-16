@@ -3,7 +3,7 @@
 <p align="center">Hunger to learn and apply new skills</p>
 
 - 👨‍💻 All of my projects are available at [https://ongkenithprojects.github.io/profile/](https://ongkenithprojects.github.io/profile/)
-- 🔭 I’m currently working on [EZResumeGen](https://projects-alpha-ecru.vercel.app/ezResumeGen)
+- 🔭 I’m currently working on -N.A.-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
